@@ -68,6 +68,24 @@ New features were created to strengthen the analysis:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="Screenshots/5.png" width="300"></td>
+    <td><img src="Screenshots/6.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/7.png" width="300"></td>
+    <td><img src="Screenshots/8.png" width="300"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="Screenshots/9.png" width="300"></td>
+    <td><img src="Screenshots/10.png" width="300"></td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Next Steps  
