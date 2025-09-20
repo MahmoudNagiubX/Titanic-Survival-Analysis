@@ -57,6 +57,7 @@ New features were created to strengthen the analysis:
 
 ---
 
+## 📊 Dashboard
 <table>
   <tr>
     <td><img src="Screenshots/1.png" width="300"></td>
