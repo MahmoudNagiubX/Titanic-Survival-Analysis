@@ -57,17 +57,17 @@ New features were created to strengthen the analysis:
 
 ---
 
-### Dashboard Overview
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (1).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (2).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (3).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (4).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (5).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (6).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (7).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (8).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (9).png)
-![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/ (10).png)
+## Dashboard Overview  
+![Dashboard Screenshot 1](Superstore_Sales_Dashboard/Screenshots/1.png)
+![Dashboard Screenshot 2](Superstore_Sales_Dashboard/Screenshots/2.png)
+![Dashboard Screenshot 3](Superstore_Sales_Dashboard/Screenshots/3.png)
+![Dashboard Screenshot 4](Superstore_Sales_Dashboard/Screenshots/4.png)
+![Dashboard Screenshot 5](Superstore_Sales_Dashboard/Screenshots/5.png)
+![Dashboard Screenshot 6](Superstore_Sales_Dashboard/Screenshots/6.png)
+![Dashboard Screenshot 7](Superstore_Sales_Dashboard/Screenshots/7.png)
+![Dashboard Screenshot 8](Superstore_Sales_Dashboard/Screenshots/8.png)
+![Dashboard Screenshot 9](Superstore_Sales_Dashboard/Screenshots/9.png)
+![Dashboard Screenshot 10](Superstore_Sales_Dashboard/Screenshots/10.png)
 
 ---
 
