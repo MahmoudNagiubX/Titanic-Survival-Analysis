@@ -58,8 +58,8 @@ New features were created to strengthen the analysis:
 ---
 
 ## Dashboard Overview  
-![Dashboard Screenshot 1](Superstore_Sales_Dashboard/Screenshots/1.png)
-![Dashboard Screenshot 2](Superstore_Sales_Dashboard/Screenshots/2.png)
+![Dashboard Screenshot 1](Screenshots/1.png)
+![Dashboard Screenshot 2](Screenshots/2.png)
 ![Dashboard Screenshot 3](Superstore_Sales_Dashboard/Screenshots/3.png)
 ![Dashboard Screenshot 4](Superstore_Sales_Dashboard/Screenshots/4.png)
 ![Dashboard Screenshot 5](Superstore_Sales_Dashboard/Screenshots/5.png)
