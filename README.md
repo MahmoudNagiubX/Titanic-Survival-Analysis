@@ -20,9 +20,9 @@ A simple predictive model (Logistic Regression) is also implemented to demonstra
 ---
 
 ## 📂 Project Structure
-├── Titanic_Analysis.ipynb # Jupyter Notebook with full analysis                                                                                                                                
-├── Titanic.csv # Dataset                                                                                                                                                                       
-├── README.md # Project documentation 
+├── Titanic_Analysis.ipynb                                                                                                                                 
+├── Titanic.csv                                                                                                                                                                     
+├── README.md  
 
 ---
 
