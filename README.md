@@ -1,5 +1,5 @@
 # 🚢 Titanic Survival Analysis
-<img src="Screenshots/Titanic Analysis.png" width="700">
+<img src="Screenshots/Titanic Analysis.png" width="800">
 
 ## 📌 Project Overview
 This project analyzes the famous **Titanic dataset** (from Kaggle) to explore the factors that affected passenger survival.  
